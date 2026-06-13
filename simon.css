@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 20px;
+    color: #53131E;
+}
+
+.btn{
+    height: 12.5rem;
+    width: 12.5rem;
+    border: 0.4rem solid black;
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: darkolivegreen;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10%;
+    font-size: 25px;
+    color: crimson;
+    background-color: transparent;
+}
+
+button:hover{
+    background-color: #7ee0bf;
+    cursor: pointer;
+}
