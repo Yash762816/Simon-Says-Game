@@ -21,4 +21,4 @@ A browser-based implementation of the classic **Simon Says** memory game built w
 - JavaScript (DOM manipulation, Event Listeners)
 
 ## Screenshot
-![Simon Game](screenshot.png)
+![Simon Game](Screenshot 2026-06-13170923.png)
