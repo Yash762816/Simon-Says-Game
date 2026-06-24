@@ -8,7 +8,7 @@ A browser-based memory game inspired by the classic **Simon Says** toy — built
 
 ## 🚀 Live Demo
 
-> https://yash762816.github.io/Simon-Says-Game/
+> https://simon-says-game-beta-eight.vercel.app/
 ---
 
 ## 🎯 How to Play
